@@ -41,5 +41,11 @@
       <node concept="2iRfu4" id="3u1c$i2e04W" role="2czzBx" />
     </node>
   </node>
+  <node concept="24kQdi" id="3u1c$i2h7A8">
+    <ref role="1XX52x" to="z5t8:3u1c$i2h6to" resolve="HexByte4" />
+    <node concept="3F0A7n" id="3u1c$i2h7Aa" role="2wV5jI">
+      <ref role="1NtTu8" to="z5t8:3u1c$i2h7_Y" resolve="bytes" />
+    </node>
+  </node>
 </model>
 

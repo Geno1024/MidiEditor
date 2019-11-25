@@ -249,5 +249,33 @@
       <node concept="3clFbS" id="3u1c$i2gVSK" role="2VODD2" />
     </node>
   </node>
+  <node concept="13h7C7" id="3u1c$i2h9WS">
+    <ref role="13h7C2" to="z5t8:3u1c$i2h6to" resolve="HexByte4" />
+    <node concept="13i0hz" id="3u1c$i2h9X3" role="13h7CS">
+      <property role="TrG5h" value="toInt" />
+      <node concept="3Tm1VV" id="3u1c$i2h9X4" role="1B3o_S" />
+      <node concept="10Oyi0" id="3u1c$i2h9Xj" role="3clF45" />
+      <node concept="3clFbS" id="3u1c$i2h9X6" role="3clF47">
+        <node concept="3clFbF" id="3u1c$i2h9XB" role="3cqZAp">
+          <node concept="2YIFZM" id="3u1c$i2h9Y0" role="3clFbG">
+            <ref role="1Pybhc" to="wyt6:~Integer" resolve="Integer" />
+            <ref role="37wK5l" to="wyt6:~Integer.parseInt(java.lang.String,int)" resolve="parseInt" />
+            <node concept="2OqwBi" id="3u1c$i2ha76" role="37wK5m">
+              <node concept="13iPFW" id="3u1c$i2h9Y2" role="2Oq$k0" />
+              <node concept="3TrcHB" id="3u1c$i2hb6R" role="2OqNvi">
+                <ref role="3TsBF5" to="z5t8:3u1c$i2h7_Y" resolve="bytes" />
+              </node>
+            </node>
+            <node concept="3cmrfG" id="3u1c$i2hagq" role="37wK5m">
+              <property role="3cmrfH" value="16" />
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node concept="13hLZK" id="3u1c$i2h9WT" role="13h7CW">
+      <node concept="3clFbS" id="3u1c$i2h9WU" role="2VODD2" />
+    </node>
+  </node>
 </model>
 
